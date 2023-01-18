@@ -115,9 +115,9 @@ export default function NavigationBar() {
   const dispatch = useDispatch();
   if(localStorage.getItem('admin@upgrad.com') === null) {
     const adminDetails = {
-      contactNumber: "+918008478982",
+      contactNumber: "+919905029340",
       email: "admin@upgrad.com",
-      firstName: "Deva Prakash",
+      firstName: "Prateek Gaurav",
       isAdmin: true,
       lastName: "admin",
       password: "pass@admin"
